@@ -1,0 +1,17 @@
+{
+  "name": "sencha-example", 
+  "version": "1.0.0",
+  "description": "Mi aplicación Ext JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "sencha app watch"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "author": "TuNombre",
+  "license": "ISC"
+}
