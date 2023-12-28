@@ -13,11 +13,10 @@ Ext.application({
         'MyLogin.*'
     ],
 
-    // The name of the initial view to create.
-     /* mainView: 'MyLogin.view.main.Main'  */
+    
      launch: function () {
         Ext.Viewport.add({
-            xtype: 'loginform'
+            xtype: 'form-login'
         });
     } 
 });
